@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://MC-AHOP.github.io/notes-lxfuwz/sitemap.xml
